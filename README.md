@@ -36,25 +36,6 @@ yang dibuat dengan usaha, waktu, dan cinta.
 
 ---
 
-## 🛠️ Teknologi
-
-Proyek ini dibuat sangat sederhana:
-
-* HTML
-* CSS
-* JavaScript (inline)
-* 1 file saja: `index.html`
-
-Tanpa framework, tanpa library berlebihan.
-Karena yang terpenting bukan kompleksitas,
-melainkan **makna**.
-
----
-
-3. Aktifkan **GitHub Pages**
-4. Buka link dan simpan sebagai kenangan 🤍
-
----
 
 ## ✨ Catatan Kecil
 
